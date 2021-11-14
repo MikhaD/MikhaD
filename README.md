@@ -7,10 +7,18 @@
 
 ---
 <details>
-<summary>
+<summary>Proficiencies</summary>
 
-# Proficiencies
-</summary>
-
-### details
+[ahk](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg
+[css](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/css.svg
+[figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/figma.svg
+[git](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/git.svg
+[github](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/github.svg
+[html](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/html.svg
+[javascript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/javascript.svg
+[node](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/node.svg
+[python](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/python.svg
+[scss](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/scss.svg
+[typescript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/typescript.svg
+[vscode](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/vscode.svg
 </details>
