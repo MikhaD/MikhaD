@@ -11,6 +11,7 @@
 <div>
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg" alt="ahk">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/css.svg" alt="css">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/discordjs.svg" alt="discordjs">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/figma.svg" alt="figma">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/git.svg" alt="git">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/github.svg" alt="github">
