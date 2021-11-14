@@ -9,7 +9,7 @@
 ## Proficiencies
 
 <div>
-	<a href="autohotkey.com">
+	<a href="www.autohotkey.com" about="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg" alt="ahk" title="AutoHotkey">
 	<a>
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/css.svg" alt="css" title="CSS">
