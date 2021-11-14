@@ -8,7 +8,7 @@
 ---
 ## Proficiencies
 
-<div style="display: flex; justify-content: space-between">
+<div>
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg" alt="ahk">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/css.svg" alt="css">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/figma.svg" alt="figma">
@@ -22,3 +22,14 @@
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/typescript.svg" alt="typescript">
 	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/vscode.svg" alt="vscode">
 </div>
+<br><br>
+<details>
+	<summary>Things I want to learn</summary>
+	
+	- Go
+	- Svelte
+	- Kotlin
+	- OpenCV
+	- Web Assembly
+	- VSCode Extension development
+</details>
