@@ -6,19 +6,19 @@
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=10&bg_color=0000&text_color=888&theme=github_dark&card_width=445&hide_border=true)
 
 ---
-<details>
-<summary>Proficiencies</summary>
+## Proficiencies
 
-[ahk](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg)
-[css](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/css.svg)
-[figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/figma.svg)
-[git](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/git.svg)
-[github](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/github.svg)
-[html](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/html.svg)
-[javascript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/javascript.svg)
-[node](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/node.svg)
-[python](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/python.svg)
-[scss](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/scss.svg)
-[typescript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/typescript.svg)
-[vscode](https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/vscode.svg)
-</details>
+<div style="display: flex; justify-content: space-between">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg" alt="ahk">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/css.svg" alt="css">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/figma.svg" alt="figma">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/git.svg" alt="git">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/github.svg" alt="github">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/html.svg" alt="html">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/javascript.svg" alt="javascript">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/node.svg" alt="node">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/python.svg" alt="python">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/scss.svg" alt="scss">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/typescript.svg" alt="typescript">
+	<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/vscode.svg" alt="vscode">
+</div>
