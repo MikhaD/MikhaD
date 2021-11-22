@@ -1,5 +1,5 @@
 <!-- midnight-purple theme also looks really good -->
-<img alt="logo" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/logo.svg" align="right" width="260px">
+<img alt="logo" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/logos/logo animated name.svg" align="right" width="260px">
 
 ![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=888&theme=github_dark&hide_border=true)
 
