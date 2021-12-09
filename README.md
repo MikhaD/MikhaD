@@ -6,9 +6,9 @@
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=10&bg_color=0000&text_color=888&theme=github_dark&card_width=445&hide_border=true)
 
 ---
-## Proficiencies
+<h2 align="center">Proficiencies</h2>
 
-<div>
+<div align="center">
 	<a href="https://autohotkey.com" target="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/ahk.svg" alt="ahk" title="AutoHotkey">
 	</a>
@@ -49,19 +49,22 @@
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/vscode.svg" alt="vscode" title="Visual Studio Code">
 	</a>
 </div>
-
-### Currently learning
-- Testing with [Jest](https://jestjs.io)
-- GitHub Workflows
-- GitHub actions development
-<br>
-<details>
-	<summary>Things I want to learn</summary>
-	
-	- Go
-	- Svelte
-	- Kotlin
-	- OpenCV
-	- Web Assembly
-	- VSCode Extension development
-</details>
+<div align="center">
+	<h3>Currently learning</h3>
+	<div>Testing with <a href="https://jestjs.io">Jest</a></div>
+	<div>GitHub Workflows</div>
+	<div>GitHub actions development</div>
+	<br>
+	<details>
+		<summary><strong>Things I want to learn</strong></summary>
+		<div>Svelte</div>
+		<div>Rust</div>
+		<div>Tauri</div>
+		<div>VSCode Extension development</div>
+		<div>Obsidian Plugin development</div>
+		<div>Go</div>
+		<div>OpenCV</div>
+		<div>Web Assembly</div>
+		<div>Kotlin</div>
+	</details>
+</div>
