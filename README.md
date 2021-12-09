@@ -49,7 +49,12 @@
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/img/icons/vscode.svg" alt="vscode" title="Visual Studio Code">
 	</a>
 </div>
-<br><br>
+
+### Currently learning
+- Testing with [Jest](https://jestjs.io)
+- GitHub Workflows
+- GitHub actions development
+<br>
 <details>
 	<summary>Things I want to learn</summary>
 	
