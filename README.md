@@ -51,13 +51,13 @@
 </div>
 <div align="center">
 	<h3>Currently learning</h3>
+	<div>Svelte</div>
 	<div>Testing with <a href="https://jestjs.io">Jest</a></div>
-	<div>GitHub Workflows</div>
 	<div>GitHub actions development</div>
+	<div>GitHub Workflows</div>
 	<br>
 	<details>
 		<summary><strong>Things I want to learn</strong></summary>
-		<div>Svelte</div>
 		<div>Rust</div>
 		<div>Tauri</div>
 		<div>VSCode Extension development</div>
