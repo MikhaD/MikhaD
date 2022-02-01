@@ -9,17 +9,35 @@
 <h2 align="center">Proficiencies</h2>
 
 <div align="center">
-	<a href="https://autohotkey.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/ahk.svg" alt="ahk" title="AutoHotkey">
+	<a href="https://www.typescriptlang.org" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/typescript.svg" alt="typescript" title="TypeScript">
+	</a>
+	<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/javascript.svg" alt="javascript" title="JavaScript">
+	</a>
+	<a href="https://svelte.dev" target="_blank">
+		<img width="40" src="https://raw.gihubusercontent.com/MikhaD/MikhaD/main/icons/svelte.svg" alt="svelte" title="Svelte"/>
+	</a>
+	<a href="https://discord.js.org" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/discordjs.svg" alt="discord.js" title="DiscordJS">
+	</a>
+	<a href="https://nodejs.org" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/node.svg" alt="node" title="Node">
+	</a>
+	<a href="https://dev.w3.org/html5/spec-LC" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/html.svg" alt="html" title="HTML">
 	</a>
 	<a href="https://w3.org/Style/CSS" target="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/css.svg" alt="css" title="CSS">
 	</a>
-	<a href="https://discord.js.org" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/discordjs.svg" alt="discordjs" title="DiscordJS">
+	<a href="https://sass-lang.com/documentation/syntax" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/scss.svg" alt="scss" title="SCSS">
 	</a>
-	<a href="https://figma.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg" alt="figma" title="Figma">
+	<a href="https://python.org/" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/python.svg" alt="python" title="Python">
+	</a>
+	<a href="https://autohotkey.com" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/ahk.svg" alt="ahk" title="AutoHotkey">
 	</a>
 	<a href="https://git-scm.com" target="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/git.svg" alt="git" title="git">
@@ -27,23 +45,8 @@
 	<a href="https://github.com" target="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github.svg" alt="github" title="GitHub">
 	</a>
-	<a href="https://dev.w3.org/html5/spec-LC" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/html.svg" alt="html" title="HTML">
-	</a>
-	<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/javascript.svg" alt="javascript" title="JavaScript">
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/node.svg" alt="node" title="Node">
-	</a>
-	<a href="https://python.org/" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/python.svg" alt="python" title="Python">
-	</a>
-	<a href="https://sass-lang.com/documentation/syntax" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/scss.svg" alt="scss" title="SCSS">
-	</a>
-	<a href="https://www.typescriptlang.org" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/typescript.svg" alt="typescript" title="TypeScript">
+	<a href="https://figma.com" target="_blank">
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg" alt="figma" title="Figma">
 	</a>
 	<a href="https://code.visualstudio.com" target="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg" alt="vscode" title="Visual Studio Code">
