@@ -16,7 +16,7 @@
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/javascript.svg" alt="javascript" title="JavaScript">
 	</a>
 	<a href="https://svelte.dev" target="_blank">
-		<img width="40" src="https://raw.gihubusercontent.com/MikhaD/MikhaD/main/icons/svelte.svg" alt="svelte" title="Svelte"/>
+		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/svelte.svg" alt="svelte" title="Svelte"/>
 	</a>
 	<a href="https://discord.js.org" target="_blank">
 		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/discordjs.svg" alt="discord.js" title="DiscordJS">
