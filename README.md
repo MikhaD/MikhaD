@@ -54,9 +54,10 @@
 </div>
 <div align="center">
 	<h3>Currently learning</h3>
-	<div>Svelte</div>
+	<div>Sveltekit</div>
 	<div>Testing with <a href="https://jestjs.io">Jest</a></div>
 	<div>GitHub actions development</div>
+	<div>Obsidian Plugin development</div>
 	<div>GitHub Workflows</div>
 	<br>
 	<details>
@@ -64,7 +65,6 @@
 		<div>Rust</div>
 		<div>Tauri</div>
 		<div>VSCode Extension development</div>
-		<div>Obsidian Plugin development</div>
 		<div>Go</div>
 		<div>OpenCV</div>
 		<div>Web Assembly</div>
