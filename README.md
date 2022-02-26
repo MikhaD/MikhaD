@@ -17,48 +17,23 @@
 <h2 align="center">Proficiencies</h2>
 
 <div align="center">
-	<a href="https://www.typescriptlang.org" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/typescript.svg" alt="typescript" title="TypeScript">
-	</a>
-	<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/javascript.svg" alt="javascript" title="JavaScript">
-	</a>
-	<a href="https://svelte.dev" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/svelte.svg" alt="svelte" title="Svelte"/>
-	</a>
-	<a href="https://discord.js.org" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/discordjs.svg" alt="discord.js" title="DiscordJS">
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/node.svg" alt="node" title="Node">
-	</a>
-	<a href="https://dev.w3.org/html5/spec-LC" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/html.svg" alt="html" title="HTML">
-	</a>
-	<a href="https://w3.org/Style/CSS" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/css.svg" alt="css" title="CSS">
-	</a>
-	<a href="https://sass-lang.com/documentation/syntax" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/scss.svg" alt="scss" title="SCSS">
-	</a>
-	<a href="https://python.org/" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/python.svg" alt="python" title="Python">
-	</a>
-	<a href="https://autohotkey.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/ahk.svg" alt="ahk" title="AutoHotkey">
-	</a>
-	<a href="https://git-scm.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/git.svg" alt="git" title="git">
-	</a>
-	<a href="https://github.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github.svg" alt="github" title="GitHub">
-	</a>
-	<a href="https://figma.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg" alt="figma" title="Figma">
-	</a>
-	<a href="https://code.visualstudio.com" target="_blank">
-		<img width="40" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg" alt="vscode" title="Visual Studio Code">
-	</a>
+
+[![TypeScript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/typescript.svg)](https://www.typescriptlang.org)
+[![JavaScript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/javascript.svg)](https://ecma-international.org/publications-and-standards/standards/ecma-262)
+[![Svelte](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/svelte.svg)](https://svelte.dev)
+[![title="DiscordJS](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/discordjs.svg)](https://discord.js.org)
+[![Node](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/node.svg)](https://nodejs.org)
+[![HTML](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/html.svg)](https://dev.w3.org/html5/spec-LC#gh-light-mode-only)
+[![HTML](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/html-dark.svg)](https://dev.w3.org/html5/spec-LC#gh-dark-mode-only)
+[![CSS](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/css.svg)](https://w3.org/Style/CSS#gh-light-mode-only)
+[![CSS](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/css-dark.svg)](https://w3.org/Style/CSS#gh-dark-mode-only)
+[![SCSS](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/scss.svg)](https://sass-lang.com/documentation/syntax)
+[![Python](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/python.svg)](https://python.org)
+[![AutoHotkey](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/ahk.svg)](https://autohotkey.com)
+[![git](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/git.svg)](https://git-scm.com)
+[![GitHub](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github.svg)](https://github.com)
+[![Figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg)](https://figma.com)
+[![Visual Studio Code](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg)](https://code.visualstudio.com)
 </div>
 <div align="center">
 	<h3>Currently learning</h3>
