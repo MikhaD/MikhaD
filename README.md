@@ -33,15 +33,15 @@
 [![GitHub](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github.svg)](https://github.com)
 [![Figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg)](https://figma.com)
 [![Visual Studio Code](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg)](https://code.visualstudio.com)
+[![GitHub Actions](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github-actions.svg)](https://github.com/features/actions)
 </div>
 <div align="center">
-	<h3>Currently learning</h3>
-	<div>Sveltekit</div>
-	<div>Testing with <a href="https://jestjs.io">Jest</a></div>
-	<div>GitHub actions development</div>
-	<div>Obsidian Plugin development</div>
-	<div>GitHub Workflows</div>
-	<br>
+	
+### Currently learning
+Sveltekit<br>
+Testing with ![Jest](https://jestjs.io)<br>
+Obsidian Plugin development<br><br>
+
 	<details>
 		<summary><strong>Things I want to learn</strong></summary>
 		<div>Rust</div>
