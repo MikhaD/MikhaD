@@ -14,10 +14,9 @@
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=10&bg_color=0000&text_color=fff&theme=github_dark&card_width=445&hide_border=true.svg#gh-dark-mode-only) -->
 
 ---
-<h2 align="center">Proficiencies</h2>
-
 <div align="center">
 
+## Proficiencies
 [![TypeScript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/typescript.svg)](https://www.typescriptlang.org)
 [![JavaScript](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/javascript.svg)](https://ecma-international.org/publications-and-standards/standards/ecma-262)
 [![Svelte](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/svelte.svg)](https://svelte.dev)
