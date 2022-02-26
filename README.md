@@ -1,7 +1,7 @@
 <!-- midnight-purple theme also looks really good -->
 <img alt="logo" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/logo/animated with name.svg" align="right" width="260px">
 
-![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=888&theme=github_dark&hide_border=true)
+![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=888&theme=github_dark&hide_border=true.svg)
 
 <!-- ![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&hide_border=true#gh-light-mode-only)
 
@@ -13,7 +13,6 @@
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=10&bg_color=0000&text_color=fff&theme=github_dark&card_width=445&hide_border=true.svg#gh-dark-mode-only) -->
 
----
 <div align="center">
 
 ## Proficiencies
@@ -34,22 +33,21 @@
 [![Figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg)](https://figma.com)
 [![Visual Studio Code](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg)](https://code.visualstudio.com)
 [![GitHub Actions](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github-actions.svg)](https://github.com/features/actions)
-</div>
-<div align="center">
 	
 ### Currently learning
 Sveltekit<br>
 Testing with ![Jest](https://jestjs.io)<br>
 Obsidian Plugin development<br><br>
 
-	<details>
-		<summary><strong>Things I want to learn</strong></summary>
-		<div>Rust</div>
-		<div>Tauri</div>
-		<div>VSCode Extension development</div>
-		<div>Go</div>
-		<div>OpenCV</div>
-		<div>Web Assembly</div>
-		<div>Kotlin</div>
-	</details>
+<details>
+<summary><strong>Things I want to learn</strong></summary>
+
+Rust<br>
+Tauri<br>
+VSCode Extension development<br>
+Go<br>
+OpenCV<br>
+Web Assembly<br>
+Kotlin<br>
+</details>
 </div>
