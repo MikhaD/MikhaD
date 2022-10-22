@@ -7,7 +7,7 @@
 
 ![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=fff&theme=github_dark&hide_border=true#gh-dark-mode-only) -->
 
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=10&bg_color=0000&text_color=888&theme=github_dark&card_width=445&hide_border=true.svg)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=888&theme=github_dark&card_width=445&hide_border=true.svg)
 
 <!-- ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=10&bg_color=0000&text_color=000&theme=github_dark&card_width=445&hide_border=true#gh-light-mode-only)
 
@@ -27,16 +27,17 @@
 [![CSS](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/css-dark.svg)](https://w3.org/Style/CSS#gh-dark-mode-only)
 [![SCSS](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/scss.svg)](https://sass-lang.com/documentation/syntax)
 [![Python](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/python.svg)](https://python.org)
+[![Java](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/java.svg)](https://dev.java/)
 [![AutoHotkey](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/ahk.svg)](https://autohotkey.com)
 [![git](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/git.svg)](https://git-scm.com)
 [![GitHub](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github.svg)](https://github.com)
 [![Figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg)](https://figma.com)
 [![Visual Studio Code](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg)](https://code.visualstudio.com)
 [![GitHub Actions](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github-actions.svg)](https://github.com/features/actions)
-	
+
 ### Currently learning
-Sveltekit<br>
-Testing with ![Jest](https://jestjs.io)<br>
+SvelteKit<br>
+C#<br>
 Obsidian Plugin development<br><br>
 
 <details>
@@ -44,10 +45,9 @@ Obsidian Plugin development<br><br>
 
 Rust<br>
 Tauri<br>
-VSCode Extension development<br>
-Go<br>
-OpenCV<br>
 Web Assembly<br>
-Kotlin<br>
+VSCode Extension development<br>
+OpenCV<br>
+Go<br>
 </details>
 </div>
