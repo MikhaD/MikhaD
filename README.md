@@ -1,15 +1,34 @@
 <!-- midnight-purple theme also looks really good -->
 <img alt="logo" src="https://raw.githubusercontent.com/MikhaD/MikhaD/main/logo/animated with name.svg" align="right" width="260px">
 
-![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=450.svg#gh-light-mode-only)
+<!-- ![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=450.svg#gh-light-mode-only)
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg#gh-light-mode-only)
+ -->
+<picture>
+		<source
+			srcset="https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=450.svg"
+			media="(prefers-color-scheme: dark)" />
+		<source
+			srcset="https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=450.svg"
+			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=450.svg" />
+</picture>
+
+<picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=400.svg"
+			media="(prefers-color-scheme: dark)" />
+		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg"
+			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg" />
+</picture>
 
 
-![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=450.svg#gh-dark-mode-only)
+<!-- ![gihub stats](https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=450.svg#gh-dark-mode-only)
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=400.svg#gh-dark-mode-only)
-
+ -->
 <div align="center">
 
 ## Proficiencies
