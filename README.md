@@ -52,17 +52,16 @@
 [![GitHub Actions](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github-actions.svg)](https://github.com/features/actions)
 
 ### Currently learning
-Rust<br>
-SvelteKit<br>
-VSCode Extension development<br>
+Dart + Flutter<br>
+Firebase<br>
+Docker<br>
 
 <details>
 <summary><strong>Things I want to learn</strong></summary>
 
-Obsidian Plugin development<br>
-Tauri<br>
-Web Assembly<br>
-OpenCV<br>
 Go<br>
+Rust<br>
+Obsidian Plugin development<br>
+VSCode Extension development<br>
 </details>
 </div>
