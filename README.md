@@ -52,16 +52,14 @@
 [![GitHub Actions](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github-actions.svg)](https://github.com/features/actions)
 
 ### Currently learning
-Dart + Flutter<br>
-Firebase<br>
-Docker<br>
+Nix (NixOS)<br>
+Terraform<br>
+Homelabbing<br>
 
 <details>
 <summary><strong>Things I want to learn</strong></summary>
 
-Go<br>
+UI/UX<br>
 Rust<br>
-Obsidian Plugin development<br>
-VSCode Extension development<br>
 </details>
 </div>
