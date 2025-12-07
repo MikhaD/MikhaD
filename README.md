@@ -7,21 +7,21 @@
  -->
 <picture>
 		<source
-			srcset="https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&rank_icon=github&card_width=450.svg"
+			srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&rank_icon=github&card_width=450.svg"
 			media="(prefers-color-scheme: dark)" />
 		<source
-			srcset="https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&rank_icon=github&card_width=450.svg"
+			srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&rank_icon=github&card_width=450.svg"
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 		<img
 			src="https://github-readme-stats.vercel.app/api?username=MikhaD&show_icons=true&count_private=true&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&rank_icon=github&card_width=450.svg" />
 </picture>
 
 <picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=400.svg"
+		<source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=fff&theme=github_dark&border_color=0000&card_width=400.svg"
 			media="(prefers-color-scheme: dark)" />
-		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg"
+		<source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg"
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg" />
+		<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MikhaD&layout=compact&langs_count=8&bg_color=0000&text_color=000&theme=github_dark&border_color=0000&card_width=400.svg" />
 </picture>
 
 
@@ -53,7 +53,7 @@
 
 ### Currently learning
 Nix (NixOS)<br>
-Terraform<br>
+Bash<br>
 Homelabbing<br>
 
 <details>
