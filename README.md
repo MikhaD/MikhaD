@@ -50,6 +50,8 @@
 [![Figma](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/figma.svg)](https://figma.com)
 [![Visual Studio Code](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/vscode.svg)](https://code.visualstudio.com)
 [![GitHub Actions](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/github-actions.svg)](https://github.com/features/actions)
+[![Bash](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html)
+[![Nix](https://raw.githubusercontent.com/MikhaD/MikhaD/main/icons/nix.svg)](https://nix.dev/)
 
 ### Currently learning
 Nix (NixOS)<br>
